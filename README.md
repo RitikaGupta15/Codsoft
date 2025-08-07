@@ -12,8 +12,8 @@ This repository contains the tasks completed during my Java Programming Internsh
 ### Task 2: Student Grade Calculator
 - Calculates the grade based on marks entered by the user.
 
-### Task 3: ATM Interface
-- Simulates basic ATM operations like withdraw, deposit, and balance check.
+### Task 3: Currency Converter
+- Converts amounts from one currency to another using Java.
 
 ---
 
